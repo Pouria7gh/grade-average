@@ -1,0 +1,7 @@
+D:\Project C#\GradeAverage\GradeAverage\bin\Debug\GradeAverage.exe.config
+D:\Project C#\GradeAverage\GradeAverage\bin\Debug\GradeAverage.exe
+D:\Project C#\GradeAverage\GradeAverage\bin\Debug\GradeAverage.pdb
+D:\Project C#\GradeAverage\GradeAverage\obj\Debug\GradeAverage.csproj.AssemblyReference.cache
+D:\Project C#\GradeAverage\GradeAverage\obj\Debug\GradeAverage.csproj.CoreCompileInputs.cache
+D:\Project C#\GradeAverage\GradeAverage\obj\Debug\GradeAverage.exe
+D:\Project C#\GradeAverage\GradeAverage\obj\Debug\GradeAverage.pdb

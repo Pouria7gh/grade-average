@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project C#\\GradeAverage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{692DC21E-64BD-44AA-857B-722B3B1266DE}|GradeAverage\\GradeAverage.csproj|d:\\project c#\\gradeaverage\\gradeaverage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692DC21E-64BD-44AA-857B-722B3B1266DE}|GradeAverage\\GradeAverage.csproj|solutionrelative:gradeaverage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692DC21E-64BD-44AA-857B-722B3B1266DE}|GradeAverage\\GradeAverage.csproj|D:\\Project C#\\GradeAverage\\gradeaverage\\input\\doubleinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692DC21E-64BD-44AA-857B-722B3B1266DE}|GradeAverage\\GradeAverage.csproj|solutionrelative:gradeaverage\\input\\doubleinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoubleInput.cs",
+              "DocumentMoniker": "D:\\Project C#\\GradeAverage\\GradeAverage\\Input\\DoubleInput.cs",
+              "RelativeDocumentMoniker": "GradeAverage\\Input\\DoubleInput.cs",
+              "ToolTip": "D:\\Project C#\\GradeAverage\\GradeAverage\\Input\\DoubleInput.cs",
+              "RelativeToolTip": "GradeAverage\\Input\\DoubleInput.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T08:14:19.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project C#\\GradeAverage\\GradeAverage\\Program.cs",
+              "RelativeDocumentMoniker": "GradeAverage\\Program.cs",
+              "ToolTip": "D:\\Project C#\\GradeAverage\\GradeAverage\\Program.cs",
+              "RelativeToolTip": "GradeAverage\\Program.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAswFgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T07:52:33.671Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
